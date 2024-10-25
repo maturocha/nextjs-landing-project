@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="314.395" height="485.744" viewBox="0 0 314.395 485.744">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a56ffb"/>
+      <stop offset="1" stop-color="#85fff1"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <ellipse id="Elipse_144" data-name="Elipse 144" cx="120.293" cy="120.293" rx="120.293" ry="120.293" fill="none" stroke="#fff" stroke-width="2"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="-0.917" y1="0.5" x2="1.917" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#aa80f9"/>
+      <stop offset="0.996" stop-color="#6165d7"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="-0.936" y1="0.5" x2="1.936" y2="0.5" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <g id="ornament" transform="translate(121.293 -1080.309)">
+    <path id="Trazado_856" data-name="Trazado 856" d="M18099.8,936.411s124.719,38.551,121.172,118.061-58.545,129.607,0,166.925,72.834,136.581,0,173.04S18099.8,1420.9,18099.8,1420.9l-14.262-484.491" transform="translate(-18104.254 143.898)" fill="url(#linear-gradient)"/>
+    <g id="Grupo_767" data-name="Grupo 767" transform="translate(-120.293 1173.595)">
+      <g id="Grupo_393" data-name="Grupo 393" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <line id="Línea_18" data-name="Línea 18" x2="346.177" y2="346.177" transform="translate(74.849 -160.391)" fill="none" stroke="#fff" stroke-width="2"/>
+        <line id="Línea_19" data-name="Línea 19" x2="346.177" y2="346.176" transform="translate(60.147 -145.688)" fill="none" stroke="#fff" stroke-width="2"/>
+        <line id="Línea_20" data-name="Línea 20" x2="346.177" y2="346.177" transform="translate(45.444 -130.986)" fill="none" stroke="#fff" stroke-width="2"/>
+        <line id="Línea_21" data-name="Línea 21" x2="346.177" y2="346.176" transform="translate(30.742 -116.283)" fill="none" stroke="#fff" stroke-width="2"/>
+        <line id="Línea_22" data-name="Línea 22" x2="346.177" y2="346.177" transform="translate(16.039 -101.581)" fill="none" stroke="#fff" stroke-width="2"/>
+        <line id="Línea_23" data-name="Línea 23" x2="346.177" y2="346.176" transform="translate(1.337 -86.878)" fill="none" stroke="#fff" stroke-width="2"/>
+        <line id="Línea_24" data-name="Línea 24" x2="346.177" y2="346.177" transform="translate(-13.366 -72.176)" fill="none" stroke="#fff" stroke-width="2"/>
+        <line id="Línea_25" data-name="Línea 25" x2="346.177" y2="346.176" transform="translate(-28.069 -57.473)" fill="none" stroke="#fff" stroke-width="2"/>
+        <line id="Línea_26" data-name="Línea 26" x2="346.177" y2="346.176" transform="translate(-42.771 -42.771)" fill="none" stroke="#fff" stroke-width="2"/>
+        <line id="Línea_27" data-name="Línea 27" x2="346.177" y2="346.177" transform="translate(-57.473 -28.068)" fill="none" stroke="#fff" stroke-width="2"/>
+        <line id="Línea_28" data-name="Línea 28" x2="346.177" y2="346.176" transform="translate(-72.176 -13.366)" fill="none" stroke="#fff" stroke-width="2"/>
+        <line id="Línea_29" data-name="Línea 29" x2="346.177" y2="346.177" transform="translate(-86.878 1.337)" fill="none" stroke="#fff" stroke-width="2"/>
+        <line id="Línea_30" data-name="Línea 30" x2="346.177" y2="346.176" transform="translate(-101.581 16.039)" fill="none" stroke="#fff" stroke-width="2"/>
+        <line id="Línea_31" data-name="Línea 31" x2="346.177" y2="346.177" transform="translate(-116.283 30.742)" fill="none" stroke="#fff" stroke-width="2"/>
+        <line id="Línea_32" data-name="Línea 32" x2="346.177" y2="346.176" transform="translate(-130.986 45.444)" fill="none" stroke="#fff" stroke-width="2"/>
+        <line id="Línea_33" data-name="Línea 33" x2="346.177" y2="346.177" transform="translate(-145.688 60.147)" fill="none" stroke="#fff" stroke-width="2"/>
+        <line id="Línea_34" data-name="Línea 34" x2="346.177" y2="346.176" transform="translate(-160.391 74.849)" fill="none" stroke="#fff" stroke-width="2"/>
+      </g>
+      <ellipse id="Elipse_145" data-name="Elipse 145" cx="120.293" cy="120.293" rx="120.293" ry="120.293" transform="translate(0 0)" fill="none" stroke="#fff" stroke-width="2"/>
+    </g>
+    <g id="Grupo_415" data-name="Grupo 415" transform="translate(993.152 1216.226)">
+      <rect id="Rectángulo_330" data-name="Rectángulo 330" width="21.516" height="64.703" transform="translate(-861.016 152.203) rotate(-45)" fill="url(#linear-gradient-2)"/>
+      <rect id="Rectángulo_331" data-name="Rectángulo 331" width="20.822" height="63.741" transform="translate(-845.707 197.369) rotate(-135)" fill="url(#linear-gradient-3)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,109 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1938 446" width="1938" height="446">
+	<title>Grupo 1926-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m1898.91 351.68c-81.9 0-148.09-66.2-148.09-148.09 0-81.89 66.19-148.09 148.09-148.09 81.89 0 148.09 66.2 148.09 148.09 0 81.89-66.2 148.09-148.09 148.09z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="1399.2" y1="122.9" x2="1447.8" y2="122.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#44d4ff"/>
+			<stop offset="1" stop-color="#cfff81"/>
+			<stop offset="1" stop-color="#fb6fbb"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="711.8" y1="369.7" x2="753.1" y2="369.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ff9085"/>
+			<stop offset="1" stop-color="#fb6fbb"/>
+			<stop offset="1" stop-color="#fb6fbb"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="1821.8" y1="88.5" x2="1821.8" y2="450.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#a56ffb"/>
+			<stop offset="1" stop-color="#85fff1"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="1836.7" y1="202.7" x2="1885.2" y2="202.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ff9085"/>
+			<stop offset="1" stop-color="#fb6fbb"/>
+			<stop offset="1" stop-color="#fb6fbb"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m419.1 634.72c-81.89 0-148.09-66.2-148.09-148.09 0-81.9 66.2-148.09 148.09-148.09 81.9 0 148.09 66.19 148.09 148.09 0 81.89-66.19 148.09-148.09 148.09z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #4531d3 } 
+		.s1 { fill: none;stroke: #ffffff;stroke-width: .8 } 
+		.s2 { fill: none;stroke: #ffffff } 
+		.s3 { fill: url(#g1) } 
+		.s4 { fill: url(#g2) } 
+		.s5 { fill: url(#g3) } 
+		.s6 { fill: url(#g4) } 
+		.s7 { fill: none;stroke: #ffffff;stroke-width: 2 } 
+	</style>
+	<path id="Trazado_2355" class="s0" d="m0 0h1941v450.4h-1941z"/>
+	<g id="Grupo_756" style="opacity: .8">
+		<g id="Clip-Path: Grupo_382" clip-path="url(#cp1)">
+			<g id="Grupo_382">
+				<path id="Línea_1" class="s1" d="m1843-142l426.1 426.2"/>
+				<path id="Línea_2" class="s1" d="m1824.9-123.9l426.1 426.2"/>
+				<path id="Línea_3" class="s1" d="m1806.8-105.8l426.1 426.2"/>
+				<path id="Línea_4" class="s1" d="m1788.7-87.7l426.1 426.2"/>
+				<path id="Línea_5" class="s1" d="m1770.6-69.6l426.1 426.2"/>
+				<path id="Línea_6" class="s1" d="m1752.5-51.5l426.1 426.2"/>
+				<path id="Línea_7" class="s1" d="m1734.4-33.4l426.1 426.2"/>
+				<path id="Línea_8" class="s1" d="m1716.3-15.3l426.1 426.2"/>
+				<path id="Línea_9" class="s1" d="m1698.2 2.8l426.1 426.2"/>
+				<path id="Línea_10" class="s1" d="m1680.1 20.9l426.1 426.2"/>
+				<path id="Línea_11" class="s1" d="m1662 39l426.1 426.2"/>
+				<path id="Línea_12" class="s1" d="m1643.9 57.1l426.1 426.2"/>
+				<path id="Línea_13" class="s1" d="m1625.8 75.2l426.1 426.2"/>
+				<path id="Línea_14" class="s1" d="m1607.7 93.3l426.1 426.2"/>
+				<path id="Línea_15" class="s1" d="m1589.6 111.4l426.1 426.2"/>
+				<path id="Línea_16" class="s1" d="m1571.5 129.5l426.1 426.2"/>
+				<path id="Línea_17" class="s1" d="m1553.4 147.6l426.1 426.2"/>
+			</g>
+		</g>
+		<circle id="Elipse_143" class="s2" cx="1898.9" cy="203.6" r="148.1"/>
+	</g>
+	<g id="Grupo_754">
+		<g id="Grupo_390">
+			<path id="Trazado_427" class="s2" d="m239.2 92.1c-7.2 0-7.2-6-14.4-6-7.1 0-7.2 6-14.3 6-7.2 0-7.2-6-14.4-6-7.2 0-7.2 6-14.4 6-7.2 0-7.2-6-14.3-6"/>
+		</g>
+		<g id="Grupo_391">
+			<path id="Trazado_428" class="s2" d="m210.8 111c-7.1 0-7.1-6-14.3-6-7.2 0-7.2 6-14.4 6-7.2 0-7.2-6-14.4-6-7.1 0-7.1 6-14.3 6-7.2 0-7.2-6-14.4-6"/>
+		</g>
+	</g>
+	<g id="Grupo_1663">
+		<g id="Grupo_390-2">
+			<path id="Trazado_427-2" class="s2" d="m1602.2 361c-7.2 0-7.2-6-14.4-6-7.1 0-7.2 6-14.3 6-7.2 0-7.2-6-14.4-6-7.2 0-7.2 6-14.4 6-7.2 0-7.2-6-14.3-6"/>
+		</g>
+		<g id="Grupo_391-2">
+			<path id="Trazado_428-2" class="s2" d="m1573.8 379.9c-7.1 0-7.1-6-14.3-6-7.2 0-7.2 6-14.4 6-7.2 0-7.2-6-14.4-6-7.1 0-7.1 6-14.3 6-7.2 0-7.2-6-14.4-6"/>
+		</g>
+	</g>
+	<path id="Trazado_849" fill-rule="evenodd" class="s3" d="m1429.1 146.9l-28.8-15.7q-0.4-0.2-0.6-0.5-0.3-0.3-0.4-0.7-0.1-0.4 0-0.8 0-0.4 0.2-0.7l15.7-28.9q0.2-0.3 0.5-0.6 0.3-0.2 0.7-0.3 0.4-0.1 0.8-0.1 0.4 0 0.7 0.2l28.8 15.7q0.4 0.2 0.6 0.5 0.3 0.3 0.4 0.7 0.1 0.4 0.1 0.8-0.1 0.4-0.3 0.8l-15.7 28.8q-0.2 0.3-0.5 0.6-0.3 0.2-0.7 0.3-0.3 0.2-0.7 0.1-0.4 0-0.8-0.2zm-25.1-18.3l25.3 13.8 13.7-25.3-25.3-13.8z"/>
+	<path id="Trazado_850" fill-rule="evenodd" class="s4" d="m724.8 389.8q-0.3 0-0.5-0.1-0.3-0.2-0.5-0.4-0.2-0.1-0.3-0.4-0.2-0.2-0.2-0.5l-11.4-36.3q-0.1-0.2-0.1-0.5 0-0.3 0-0.5 0.1-0.3 0.2-0.5 0.1-0.3 0.3-0.5 0.2-0.2 0.4-0.3 0.3-0.2 0.5-0.3 0.3 0 0.6-0.1 0.2 0 0.5 0.1l37.1 8.3q0.3 0 0.5 0.2 0.3 0.1 0.5 0.3 0.2 0.1 0.3 0.4 0.2 0.2 0.3 0.5 0 0.2 0.1 0.5 0 0.3-0.1 0.5-0.1 0.3-0.2 0.5-0.1 0.3-0.3 0.5l-25.7 28q-0.2 0.2-0.4 0.4-0.3 0.1-0.5 0.2-0.3 0.1-0.6 0.1-0.2 0-0.5-0.1zm-7.9-35.5l9.2 29.5 20.9-22.8z"/>
+	<path id="Trazado_851" class="s5" d="m1956.8 450.4h-266.5c0 0-26.6-73.3 46.9-97.7 73.5-24.5 97.8-51 107.7-156.7 9.9-105.6 109.1-118.3 111.9-101.2 2.6 26.9 0 355.6 0 355.6z"/>
+	<path id="Trazado_853" fill-rule="evenodd" class="s6" d="m1866.6 226.7l-28.8-15.6q-0.4-0.2-0.6-0.6-0.3-0.3-0.4-0.6-0.1-0.4-0.1-0.8 0.1-0.4 0.3-0.8l15.7-28.8q0.1-0.4 0.5-0.6 0.3-0.3 0.6-0.4 0.4-0.1 0.8 0 0.4 0 0.8 0.2l28.8 15.7q0.4 0.2 0.6 0.5 0.3 0.3 0.4 0.7 0.1 0.4 0 0.8 0 0.4-0.2 0.7l-15.7 28.8q-0.2 0.4-0.5 0.6-0.3 0.3-0.7 0.4-0.4 0.1-0.8 0.1-0.4-0.1-0.7-0.3zm-25.1-18.2l25.3 13.7 13.7-25.3-25.3-13.7z"/>
+	<g id="Grupo_1661" style="opacity: .4">
+		<g id="Clip-Path: Grupo_382-2" clip-path="url(#cp2)">
+			<g id="Grupo_382-2">
+				<path id="Línea_1-2" class="s7" d="m363.2 141.1l426.1 426.2"/>
+				<path id="Línea_2-2" class="s7" d="m345.1 159.2l426.1 426.2"/>
+				<path id="Línea_3-2" class="s7" d="m327 177.3l426.1 426.2"/>
+				<path id="Línea_4-2" class="s7" d="m308.9 195.4l426.1 426.2"/>
+				<path id="Línea_5-2" class="s7" d="m290.8 213.5l426.1 426.2"/>
+				<path id="Línea_6-2" class="s7" d="m272.7 231.6l426.1 426.2"/>
+				<path id="Línea_7-2" class="s7" d="m254.6 249.7l426.1 426.2"/>
+				<path id="Línea_8-2" class="s7" d="m236.5 267.8l426.1 426.2"/>
+				<path id="Línea_9-2" class="s7" d="m218.4 285.9l426.1 426.2"/>
+				<path id="Línea_10-2" class="s7" d="m200.3 304l426.1 426.2"/>
+				<path id="Línea_11-2" class="s7" d="m182.2 322.1l426.1 426.2"/>
+				<path id="Línea_12-2" class="s7" d="m164.1 340.2l426.1 426.2"/>
+				<path id="Línea_13-2" class="s7" d="m146 358.3l426.1 426.2"/>
+				<path id="Línea_14-2" class="s7" d="m127.9 376.4l426.1 426.2"/>
+				<path id="Línea_15-2" class="s7" d="m109.8 394.5l426.1 426.2"/>
+				<path id="Línea_16-2" class="s7" d="m91.7 412.6l426.1 426.2"/>
+				<path id="Línea_17-2" class="s7" d="m73.6 430.7l426.1 426.2"/>
+			</g>
+		</g>
+		<circle id="Elipse_143-2" class="s7" cx="419.1" cy="486.6" r="148.1"/>
+	</g>
+</svg>

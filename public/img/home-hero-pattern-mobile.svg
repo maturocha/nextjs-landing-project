@@ -1,0 +1,80 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 386 738" width="386" height="738">
+	<title>Fondo_Home-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="191.3" y1="566.5" x2="377.8" y2="734.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#a56ffb"/>
+			<stop offset="1" stop-color="#85fff1"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="122" y1="0" x2="122" y2="207.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#a56ffb"/>
+			<stop offset="1" stop-color="#85fff1"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m350.32 612.14c-57.07 0-103.2-46.13-103.2-103.2 0-57.07 46.13-103.21 103.2-103.21 57.08 0 103.21 46.14 103.21 103.21 0 57.07-46.13 103.2-103.21 103.2z"/>
+		</clipPath>
+		<linearGradient id="g3" x1="326.6" y1="402.2" x2="350.4" y2="396.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ff9085"/>
+			<stop offset="1" stop-color="#fb6fbb"/>
+			<stop offset="1" stop-color="#fb6fbb"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: none;stroke: #ffffff;stroke-width: 2 } 
+		.s3 { fill: url(#g3) } 
+	</style>
+	<g id="Grupo_428">
+		<path id="Trazado_476" class="s0" d="m386.5 740.2h-317.4c0 0-31.7-87.3 55.8-116.4 87.6-29.1 116.4-60.7 128.2-186.5 11.8-125.9 130.1-141 133.4-120.6 3.1 32 0 423.5 0 423.5z"/>
+		<path id="Trazado_475" class="s1" d="m244.1 0c0 0-120.5 0-155.7 99.8-35.1 99.8-88.4 107.9-88.4 107.9v-207.7z"/>
+		<g id="Grupo_394" style="opacity: .4">
+			<g id="Clip-Path: Grupo_393" clip-path="url(#cp1)">
+				<g id="Grupo_393">
+					<path id="Línea_18" class="s2" d="m311.3 268.1l297 297"/>
+					<path id="Línea_19" class="s2" d="m298.7 280.7l297 297"/>
+					<path id="Línea_20" class="s2" d="m286.1 293.4l297 297"/>
+					<path id="Línea_21" class="s2" d="m273.5 306l297 297"/>
+					<path id="Línea_22" class="s2" d="m260.9 318.6l297 297"/>
+					<path id="Línea_23" class="s2" d="m248.3 331.2l297 297"/>
+					<path id="Línea_24" class="s2" d="m235.7 343.8l297 297"/>
+					<path id="Línea_25" class="s2" d="m223 356.4l297 297"/>
+					<path id="Línea_26" class="s2" d="m210.4 369l297 297"/>
+					<path id="Línea_27" class="s2" d="m197.8 381.7l297 297"/>
+					<path id="Línea_28" class="s2" d="m185.2 394.3l297 297"/>
+					<path id="Línea_29" class="s2" d="m172.6 406.9l297 297"/>
+					<path id="Línea_30" class="s2" d="m160 419.5l297 297"/>
+					<path id="Línea_31" class="s2" d="m147.4 432.1l297 297"/>
+					<path id="Línea_32" class="s2" d="m134.7 444.7l297 297"/>
+					<path id="Línea_33" class="s2" d="m122.1 457.3l297 297"/>
+					<path id="Línea_34" class="s2" d="m109.5 469.9l297 297.1"/>
+				</g>
+			</g>
+			<circle id="Elipse_145" class="s2" cx="350.3" cy="508.9" r="103.2"/>
+		</g>
+		<path id="Trazado_434" fill-rule="evenodd" class="s3" d="m330.7 418.1q-0.2 0-0.3-0.1-0.2-0.1-0.4-0.2-0.1-0.2-0.2-0.3-0.1-0.2-0.2-0.4l-7.9-25.3q-0.1-0.1-0.1-0.3 0-0.2 0.1-0.4 0-0.2 0.1-0.4 0.1-0.1 0.2-0.3 0.1-0.1 0.3-0.2 0.2-0.1 0.3-0.2 0.2 0 0.4 0 0.2 0 0.4 0l25.9 5.8q0.2 0 0.3 0.1 0.2 0.1 0.3 0.2 0.2 0.1 0.3 0.3 0.1 0.2 0.1 0.3 0.1 0.2 0.1 0.4 0 0.2 0 0.4-0.1 0.2-0.2 0.3-0.1 0.2-0.2 0.3l-17.9 19.6q-0.1 0.1-0.3 0.2-0.2 0.1-0.4 0.2-0.1 0-0.3 0-0.2 0.1-0.4 0zm-5.5-24.7l6.4 20.5 14.6-15.9z"/>
+		<g id="Grupo_400">
+			<g id="Grupo_398">
+				<path id="Trazado_431" class="s2" d="m328.3 689.2c-5 0-5-4.2-10-4.2-5 0-5 4.2-10 4.2-5 0-5-4.2-10-4.2-5 0-5 4.2-10 4.2-5 0-5-4.2-10-4.2"/>
+			</g>
+			<g id="Grupo_399">
+				<path id="Trazado_432" class="s2" d="m308.6 702.4c-5 0-5-4.2-10-4.2-5 0-5 4.2-10 4.2-5.1 0-5-4.2-10.1-4.2-5 0-5 4.2-10 4.2-5 0-5-4.2-10-4.2"/>
+			</g>
+		</g>
+		<g id="Grupo_426">
+			<g id="Grupo_398-2">
+				<path id="Trazado_431-2" class="s2" d="m127.5 46.2c-7 0-7-5.8-14-5.8-6.9 0-6.9 5.8-13.9 5.8-7 0-7-5.8-14-5.8-6.9 0-7 5.8-13.9 5.8-7 0-7-5.8-14-5.8"/>
+			</g>
+			<g id="Grupo_399-2">
+				<path id="Trazado_432-2" class="s2" d="m30.2 58.7c7 0 7 5.9 13.9 5.9 7 0 7-5.9 14-5.9 7 0 7 5.9 13.9 5.9 7 0 7-5.9 14-5.9 7 0 7 5.9 13.9 5.9"/>
+			</g>
+		</g>
+		<g id="Grupo_1468">
+			<g id="Grupo_398-3">
+				<path id="Trazado_431-3" class="s2" d="m142.3 720.1c-7.7 0-7.7-6.5-15.4-6.5-7.6 0-7.6 6.5-15.3 6.5-7.7 0-7.7-6.5-15.3-6.5-7.7 0-7.7 6.5-15.4 6.5-7.7 0-7.7-6.5-15.3-6.5"/>
+			</g>
+			<g id="Grupo_399-3">
+				<path id="Trazado_432-3" class="s2" d="m112 740.2c-7.7 0-7.7-6.4-15.4-6.4-7.6 0-7.6 6.4-15.3 6.4-7.7 0-7.7-6.4-15.3-6.4-7.7 0-7.7 6.4-15.4 6.4-7.6 0-7.6-6.4-15.3-6.4"/>
+			</g>
+		</g>
+	</g>
+</svg>

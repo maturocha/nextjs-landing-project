@@ -1,0 +1,28 @@
+<svg id="freemium" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65.191" height="94.527" viewBox="0 0 65.191 94.527">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a56ffb"/>
+      <stop offset="1" stop-color="#85fff1"/>
+    </linearGradient>
+  </defs>
+  <g id="_008---Gaming-Chair" data-name="008---Gaming-Chair">
+    <path id="Rectangle-path" d="M17,44h9.779V55.408H17Z" transform="translate(10.706 27.71)" fill="#7f8c8d"/>
+    <path id="Shape" d="M44.115,63.561c7.008-5.774,3.26-8.833,3.26-19.557,0-9.779,6.519-11.408,6.519-19.557s-6.519-6.519-11.408-13.038L39.568,6.943C37.107,2.771,35.591,0,29.447,0s-7.66,2.771-10.121,6.943l-2.917,4.466C11.519,17.928,5,16.3,5,24.447S11.519,34.225,11.519,44c0,10.227-2.652,14.283,3.26,19.557Z" transform="translate(3.149 0)" fill="#2c3e50"/>
+    <path id="Rectangle-path-2" data-name="Rectangle-path" d="M0,0H16.62V3.26H0Z" transform="matrix(0.196, -0.981, 0.981, 0.196, 55.449, 59.943)" fill="#2c3e50"/>
+    <path id="Shape-2" data-name="Shape" d="M42.149,29.26H35.63a1.63,1.63,0,1,1,0-3.26h6.519a1.63,1.63,0,0,1,0,3.26Z" transform="translate(21.412 16.374)" fill="#3f5c6c"/>
+    <path id="Shape-3" data-name="Shape" d="M30.63,41.149s-.163-4.808,1.793-6.731A4.4,4.4,0,0,1,35.519,33s4.889,0,4.889,6.519A13.666,13.666,0,0,1,29,52.557Z" transform="translate(18.263 20.783)" fill="#35495e"/>
+    <path id="Rectangle-path-3" data-name="Rectangle-path" d="M0,0H3.26V16.62H0Z" transform="matrix(0.981, -0.196, 0.196, 0.981, 3.288, 44.343)" fill="#2c3e50"/>
+    <path id="Shape-4" data-name="Shape" d="M8.149,29.26H1.63a1.63,1.63,0,0,1,0-3.26H8.149a1.63,1.63,0,1,1,0,3.26Z" transform="translate(0 16.374)" fill="#3f5c6c"/>
+    <path id="Shape-5" data-name="Shape" d="M13.779,41.149s.163-4.808-1.793-6.731A4.4,4.4,0,0,0,8.889,33S4,33,4,39.519A13.666,13.666,0,0,0,15.408,52.557Z" transform="translate(2.519 20.783)" fill="#35495e"/>
+    <path id="Shape-6" data-name="Shape" d="M42.6,40.519V37.26A3.269,3.269,0,0,0,39.336,34H13.26A3.269,3.269,0,0,0,10,37.26v3.26l16.3,3.26Z" transform="translate(6.298 21.412)" fill="url(#linear-gradient)"/>
+    <path id="Shape-7" data-name="Shape" d="M26.3,49.585H40.966c1.63-1.63,1.63-11.408,1.63-11.408-4.889-1.63-11.408,1.63-16.3,1.63s-11.408-3.26-16.3-1.63c0,0,0,9.779,1.63,11.408Z" transform="translate(6.298 23.755)" fill="#3f5c6c"/>
+    <rect id="Rectangle-path-4" data-name="Rectangle-path" width="26.076" height="16.298" rx="3" transform="translate(19.557 6.519)" fill="#3f5c6c"/>
+    <path id="Shape-8" data-name="Shape" d="M33.557,46.6c0-21.187-4.889-32.6-4.889-32.6H18.889S14,25.408,14,46.6Z" transform="translate(8.817 8.817)" fill="url(#linear-gradient)"/>
+    <path id="Shape-9" data-name="Shape" d="M10.26,50H46.115a3.26,3.26,0,0,1,3.26,3.26v1.63a1.63,1.63,0,0,1-1.63,1.63H8.63A1.63,1.63,0,0,1,7,54.889V53.26A3.26,3.26,0,0,1,10.26,50Z" transform="translate(4.408 31.489)" fill="#95a5a5"/>
+    <g id="Grupo_1929" data-name="Grupo 1929" transform="translate(11.408 88.008)">
+      <ellipse id="Oval" cx="3.26" cy="3.26" rx="3.26" ry="3.26" fill="#7f8c8d"/>
+      <ellipse id="Oval-2" data-name="Oval" cx="3.26" cy="3.26" rx="3.26" ry="3.26" transform="translate(17.928)" fill="#7f8c8d"/>
+      <ellipse id="Oval-3" data-name="Oval" cx="3.26" cy="3.26" rx="3.26" ry="3.26" transform="translate(35.855)" fill="#7f8c8d"/>
+    </g>
+  </g>
+</svg>

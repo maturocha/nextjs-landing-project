@@ -1,0 +1,172 @@
+/* ./styles/globals.css */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    scroll-behavior: smooth !important;
+}
+
+.dropdown:hover .dropdown-menu {
+	display: block;
+}
+
+.applyFont {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.title {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	line-height: 72px;
+}
+
+.input-text-color {
+	color: #667085;
+}
+
+.input-text-color::placeholder {
+	color: #667085;
+}
+
+.label-input {
+	color: #344054;
+}
+
+@layer utilities {
+	* {
+		outline: 0;
+	}
+
+	.animation-delay-1 {
+		animation-delay: 1s;
+	}
+
+	.animation-delay-2 {
+		animation-delay: 10s;
+	}
+
+	html {
+		scroll-behavior: smooth;
+	}
+
+	.placeholder-italic::placeholder {
+		@apply italic;
+	}
+
+	svg {
+		display: initial !important;
+	}
+
+	.modal {
+		transition: opacity 0.25s ease;
+	}
+
+	body.modal-active {
+		overflow-x: hidden;
+		overflow-y: hidden;
+	}
+
+	::-webkit-scrollbar {
+		height: 8px;
+		width: 8px;
+	}
+
+	/* Track */
+	::-webkit-scrollbar-track {
+		background: #f1f1f1;
+		-webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+		border-radius: 10px;
+	}
+
+	/* Handle */
+	::-webkit-scrollbar-thumb {
+		background: #2b2558;
+		-webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+	}
+
+	/* Handle on hover */
+	::-webkit-scrollbar-thumb:hover {
+		background: #555;
+	}
+
+	.post:hover .overlay {
+		display: block;
+	}
+
+	.keen-slider {
+		display: flex;
+		-webkit-user-select: none;
+		-moz-user-select: none;
+		-ms-user-select: none;
+		user-select: none;
+		-webkit-touch-callout: none;
+		-khtml-user-select: none;
+		touch-action: pan-y;
+		-webkit-tap-highlight-color: transparent;
+	}
+
+	.keen-slider,
+	.keen-slider__slide {
+		overflow: hidden;
+		position: relative;
+	}
+
+	.keen-slider__slide {
+		width: 100%;
+		min-height: 100%;
+	}
+
+	.keen-slider[data-keen-slider-v] {
+		flex-wrap: wrap;
+	}
+
+	.keen-slider[data-keen-slider-v] .keen-slider__slide {
+		width: 100%;
+	}
+
+	.keen-slider[data-keen-slider-moves] * {
+		pointer-events: none;
+	}
+}
+
+ul.tick-list {
+	list-style: none;
+}
+
+ul.tick-list li:before {
+	content: "\2713\0020";
+}
+
+.is-action-btn .is-publish {
+	background: #1d9bf0;
+	color: white;
+	border-radius: 20px;
+}
+
+.is-action-btn .is-actions-add-post {
+	text-decoration: none;
+	margin: 0 0.5em;
+	background: #e4e4e4;
+	padding: 0.3em;
+	border-radius: 50%;
+}
+
+.is-action-btn .is-actions-add-post svg {
+	font-size: 1.5em;
+	color: #484646;
+}
+
+.spanHover {
+	display: none;
+}
+
+.isHover {
+	cursor: pointer;
+}
+
+.isHover:focus~.spanHover,
+.isHover:hover~.spanHover {
+	display: inline-block;
+}

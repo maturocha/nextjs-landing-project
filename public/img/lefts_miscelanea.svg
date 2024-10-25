@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80.391" height="99.951" viewBox="0 0 80.391 99.951">
+  <defs>
+    <linearGradient id="linear-gradient" x1="2.781" y1="0.529" x2="-0.17" y2="1.403" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0fb382"/>
+      <stop offset="1" stop-color="#a9e95b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-1.538" y1="-0.754" x2="0.626" y2="-0.754" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="ilus_hojas_valores_home" transform="translate(-1415.383 -1254.294) rotate(-9)">
+    <path id="Trazado_542" data-name="Trazado 542" d="M29.912,83.552S32.589,33.811,17.24,1.721a3.021,3.021,0,0,0-5.294-.291C3.538,15.028-17.45,57.615,29.912,83.552Z" transform="matrix(0.883, -0.469, 0.469, 0.883, 1204.91, 1479.103)" fill="url(#linear-gradient)"/>
+    <path id="Trazado_543" data-name="Trazado 543" d="M14.169,63.487a.131.131,0,1,1-.22.144C10.281,58.755-2.82,36.254.548.074a.093.093,0,0,1,.182,0C.677,8.68,1.388,40.654,14.169,63.487Z" transform="matrix(0.883, -0.469, 0.469, 0.883, 1222.872, 1487.337)" fill="#fff" opacity="0.5"/>
+    <path id="Trazado_544" data-name="Trazado 544" d="M24.554,73.011s17.49-20.912.678-43.426C14.727,15.516,11.9,6.525,11.255,1.758,11.046.195,9.256-.574,8.329.5,1.461,8.5-12.389,32.821,24.554,73.011Z" transform="matrix(0.883, -0.469, 0.469, 0.883, 1195.228, 1501.396)" fill="url(#linear-gradient-2)"/>
+    <path id="Trazado_545" data-name="Trazado 545" d="M.307.11C.307-.015.136-.044.125.078-.344,4.567-.239,24.12,14.541,48.122a.062.062,0,1,0,.107-.06C11.581,42.135.726,19.8.307.11Z" transform="matrix(0.883, -0.469, 0.469, 0.883, 1211.451, 1512.113)" fill="#fff" opacity="0.5"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg id="icon_comunicacion_home" xmlns="http://www.w3.org/2000/svg" width="72.693" height="72.693" viewBox="0 0 72.693 72.693">
+  <path id="Trazado_1775" data-name="Trazado 1775" d="M41.95,3.635V26.048a3.685,3.685,0,0,1-3.635,3.635H19.082L4.846,37.1V29.683H3.635A3.685,3.685,0,0,1,0,26.048V3.635A3.685,3.685,0,0,1,3.635,0H38.467A3.557,3.557,0,0,1,41.95,3.635Z" fill="#f3705a"/>
+  <g id="Grupo_1112" data-name="Grupo 1112" transform="translate(5.906 10.904)">
+    <ellipse id="Elipse_168" data-name="Elipse 168" cx="3.937" cy="3.937" rx="3.937" ry="3.937" fill="#fff"/>
+    <ellipse id="Elipse_169" data-name="Elipse 169" cx="3.937" cy="3.937" rx="3.937" ry="3.937" transform="translate(11.207)" fill="#fff"/>
+    <ellipse id="Elipse_170" data-name="Elipse 170" cx="3.937" cy="3.937" rx="3.937" ry="3.937" transform="translate(22.414)" fill="#fff"/>
+  </g>
+  <path id="Trazado_1776" data-name="Trazado 1776" d="M216.533,66.568V88.83a3.685,3.685,0,0,0,3.635,3.635h19.385l14.236,7.421V92.464h1.06a3.685,3.685,0,0,0,3.635-3.635V66.568a3.685,3.685,0,0,0-3.635-3.635H220.016A3.557,3.557,0,0,0,216.533,66.568Z" transform="translate(-185.79 -53.998)" fill="#ffd15c"/>
+  <g id="Grupo_1113" data-name="Grupo 1113" transform="translate(36.498 19.839)">
+    <ellipse id="Elipse_171" data-name="Elipse 171" cx="3.937" cy="3.937" rx="3.937" ry="3.937" transform="translate(22.414)" fill="#fff"/>
+    <ellipse id="Elipse_172" data-name="Elipse 172" cx="3.937" cy="3.937" rx="3.937" ry="3.937" transform="translate(11.207)" fill="#fff"/>
+    <ellipse id="Elipse_173" data-name="Elipse 173" cx="3.937" cy="3.937" rx="3.937" ry="3.937" fill="#fff"/>
+  </g>
+  <path id="Trazado_1777" data-name="Trazado 1777" d="M117.683,255.368v22.414a3.685,3.685,0,0,1-3.635,3.635H102.084l-5.452,7.269-5.452-7.421H79.368a3.685,3.685,0,0,1-3.635-3.635V255.368a3.685,3.685,0,0,1,3.635-3.635H114.2A3.557,3.557,0,0,1,117.683,255.368Z" transform="translate(-64.981 -215.992)" fill="#45c481"/>
+  <g id="Grupo_1114" data-name="Grupo 1114" transform="translate(16.659 46.645)">
+    <ellipse id="Elipse_174" data-name="Elipse 174" cx="3.937" cy="3.937" rx="3.937" ry="3.937" transform="translate(22.262)" fill="#fff"/>
+    <ellipse id="Elipse_175" data-name="Elipse 175" cx="3.937" cy="3.937" rx="3.937" ry="3.937" transform="translate(11.207)" fill="#fff"/>
+    <ellipse id="Elipse_176" data-name="Elipse 176" cx="3.937" cy="3.937" rx="3.937" ry="3.937" fill="#fff"/>
+  </g>
+</svg>

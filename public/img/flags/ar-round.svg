@@ -1,0 +1,8 @@
+<svg id="_004-argentina" data-name="004-argentina" xmlns="http://www.w3.org/2000/svg" width="79.557" height="81.181" viewBox="0 0 79.557 81.181">
+  <ellipse id="Elipse_211" data-name="Elipse 211" cx="39.779" cy="40.591" rx="39.779" ry="40.591" transform="translate(0 0)" fill="#f0f0f0"/>
+  <g id="Grupo_1567" data-name="Grupo 1567" transform="translate(4.405 1.22)">
+    <path id="Trazado_2390" data-name="Trazado 2390" d="M60.866,0A39.373,39.373,0,0,0,25.4,22.253H96.33A39.373,39.373,0,0,0,60.866,0Z" transform="translate(-25.402)" fill="#338af3"/>
+    <path id="Trazado_2391" data-name="Trazado 2391" d="M60.866,389.557A39.373,39.373,0,0,0,96.33,367.3H25.4A39.373,39.373,0,0,0,60.866,389.557Z" transform="translate(-25.402 -310.815)" fill="#338af3"/>
+  </g>
+  <path id="Trazado_2392" data-name="Trazado 2392" d="M203.02,194.407l-4.808,2.262,2.561,4.657-5.221-1-.662,5.274-3.637-3.879-3.637,3.879-.661-5.274-5.221,1,2.56-4.657-4.808-2.262,4.808-2.262-2.561-4.657,5.221,1,.662-5.274,3.637,3.879,3.637-3.879.661,5.274,5.221-1-2.561,4.657Z" transform="translate(-151.384 -153.817)" fill="#ffda44"/>
+</svg>

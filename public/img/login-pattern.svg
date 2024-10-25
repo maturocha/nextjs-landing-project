@@ -1,0 +1,190 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1906 996" width="1906" height="996">
+	<title>bkg_header_comofunciona-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="1752.2" y1="-16" x2="1752.2" y2="417.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#a56ffb"/>
+			<stop offset="1" stop-color="#85fff1"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="176.7" y1="605.6" x2="176.7" y2="995.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#a56ffb"/>
+			<stop offset="1" stop-color="#85fff1"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-3.91 823.38c-98.76 0-178.59-79.84-178.59-178.6 0-98.76 79.83-178.59 178.59-178.59 98.77 0 178.6 79.83 178.6 178.59 0 98.76-79.83 178.59-178.6 178.59z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m1925 709.04c-103.47 0-187.11-83.64-187.11-187.11 0-103.48 83.64-187.12 187.11-187.12 103.48 0 187.12 83.64 187.12 187.12 0 103.47-83.64 187.11-187.12 187.11z"/>
+		</clipPath>
+		<linearGradient id="g3" x1="1766.3" y1="111.6" x2="1824.3" y2="111.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#a56ffb"/>
+			<stop offset="1" stop-color="#85fff1"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="102" y1="128" x2="150.7" y2="128" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#a56ffb"/>
+			<stop offset="1" stop-color="#85fff1"/>
+		</linearGradient>
+		<linearGradient id="g5" x1="433.5" y1="888.2" x2="478" y2="888.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#44d4ff"/>
+			<stop offset="1" stop-color="#cfff81"/>
+			<stop offset="1" stop-color="#fb6fbb"/>
+		</linearGradient>
+		<linearGradient id="g6" x1="1296" y1="269" x2="1340.6" y2="269" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#44d4ff"/>
+			<stop offset="1" stop-color="#cfff81"/>
+			<stop offset="1" stop-color="#fb6fbb"/>
+		</linearGradient>
+		<linearGradient id="g7" x1="177.8" y1="579.5" x2="326" y2="579.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#aa80f9"/>
+			<stop offset="1" stop-color="#6165d7"/>
+		</linearGradient>
+		<linearGradient id="g8" x1="178.2" y1="579.5" x2="325.6" y2="579.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#aa80f9"/>
+			<stop offset="1" stop-color="#6165d7"/>
+		</linearGradient>
+		<linearGradient id="g9" x1="1457.4" y1="768.7" x2="1639" y2="768.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ff9085"/>
+			<stop offset="1" stop-color="#fb6fbb"/>
+			<stop offset="1" stop-color="#fb6fbb"/>
+		</linearGradient>
+		<linearGradient id="g10" x1="1457.9" y1="768.7" x2="1638.4" y2="768.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ff9085"/>
+			<stop offset="1" stop-color="#fb6fbb"/>
+			<stop offset="1" stop-color="#fb6fbb"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #4531d3 } 
+		.s1 { fill: url(#g1) } 
+		.s2 { fill: url(#g2) } 
+		.s3 { fill: none;stroke: #ffffff;stroke-width: 3 } 
+		.s4 { fill: url(#g3) } 
+		.s5 { fill: url(#g4) } 
+		.s6 { fill: url(#g5) } 
+		.s7 { fill: url(#g6) } 
+		.s8 { fill: url(#g7) } 
+		.s9 { fill: url(#g8) } 
+		.s10 { fill: url(#g9) } 
+		.s11 { fill: url(#g10) } 
+	</style>
+	<g id="bkg_header_comofunciona">
+		<path id="Rectángulo_332" class="s0" d="m-3.9-2.5h1920v998.4h-1920z"/>
+		<path id="Trazado_478" class="s1" d="m1916.1-7.3v389.5c0 0-100.1 93.4-171.4-23.3-71.3-116.8-38.9-176.8-100.1-198.9-61.2-22.1-79.8-147.6-19.2-167.3 60.6-19.6 290.7 0 290.7 0z"/>
+		<path id="Trazado_477" class="s2" d="m-4.8 608.3c4.4-4.7 191.7-22.3 210 162 18.3 184.2 154.9 225.6 154.9 225.6h-364.9c0 0-4.4-383 0-387.6z"/>
+		<g id="Grupo_394" style="opacity: .4">
+			<g id="Clip-Path: Grupo_393" clip-path="url(#cp1)">
+				<g id="Grupo_393">
+					<path id="Línea_18" class="s3" d="m-71.4 228.1l514 513.9"/>
+					<path id="Línea_19" class="s3" d="m-93.2 249.9l514 513.9"/>
+					<path id="Línea_20" class="s3" d="m-115 271.7l513.9 514"/>
+					<path id="Línea_21" class="s3" d="m-136.9 293.5l514 514"/>
+					<path id="Línea_22" class="s3" d="m-158.7 315.4l514 513.9"/>
+					<path id="Línea_23" class="s3" d="m-180.5 337.2l513.9 514"/>
+					<path id="Línea_24" class="s3" d="m-202.3 359l513.9 514"/>
+					<path id="Línea_25" class="s3" d="m-224.2 380.9l514 513.9"/>
+					<path id="Línea_26" class="s3" d="m-246 402.7l514 513.9"/>
+					<path id="Línea_27" class="s3" d="m-267.8 424.5l513.9 514"/>
+					<path id="Línea_28" class="s3" d="m-289.7 446.3l514 514"/>
+					<path id="Línea_29" class="s3" d="m-311.5 468.2l514 513.9"/>
+					<path id="Línea_30" class="s3" d="m-333.3 490l513.9 514"/>
+					<path id="Línea_31" class="s3" d="m-355.1 511.8l513.9 514"/>
+					<path id="Línea_32" class="s3" d="m-377 533.7l514 513.9"/>
+					<path id="Línea_33" class="s3" d="m-398.8 555.5l514 513.9"/>
+					<path id="Línea_34" class="s3" d="m-420.6 577.3l513.9 514"/>
+				</g>
+			</g>
+			<path id="Elipse_145" class="s3" d="m-3.9 823.4c-98.8 0-178.6-79.9-178.6-178.6 0-98.8 79.8-178.6 178.6-178.6 98.8 0 178.6 79.8 178.6 178.6 0 98.7-79.8 178.6-178.6 178.6z"/>
+		</g>
+		<g id="Grupo_938" style="opacity: .3">
+			<g id="Clip-Path: Grupo_393-2" clip-path="url(#cp2)">
+				<g id="Grupo_393-2">
+					<path id="Línea_18-2" class="s3" d="m1854.3 85.3l538.5 538.5"/>
+					<path id="Línea_19-2" class="s3" d="m1831.4 108.2l538.5 538.5"/>
+					<path id="Línea_20-2" class="s3" d="m1808.6 131.1l538.5 538.4"/>
+					<path id="Línea_21-2" class="s3" d="m1785.7 153.9l538.5 538.5"/>
+					<path id="Línea_22-2" class="s3" d="m1762.8 176.8l538.5 538.5"/>
+					<path id="Línea_23-2" class="s3" d="m1740 199.7l538.4 538.5"/>
+					<path id="Línea_24-2" class="s3" d="m1717.1 222.5l538.5 538.5"/>
+					<path id="Línea_25-2" class="s3" d="m1694.2 245.4l538.5 538.5"/>
+					<path id="Línea_26-2" class="s3" d="m1671.4 268.3l538.4 538.5"/>
+					<path id="Línea_27-2" class="s3" d="m1648.5 291.2l538.5 538.4"/>
+					<path id="Línea_28-2" class="s3" d="m1625.6 314l538.5 538.5"/>
+					<path id="Línea_29-2" class="s3" d="m1602.8 336.9l538.4 538.5"/>
+					<path id="Línea_30-2" class="s3" d="m1579.9 359.8l538.5 538.4"/>
+					<path id="Línea_31-2" class="s3" d="m1557 382.6l538.5 538.5"/>
+					<path id="Línea_32-2" class="s3" d="m1534.1 405.5l538.5 538.5"/>
+					<path id="Línea_33-2" class="s3" d="m1511.3 428.4l538.4 538.4"/>
+					<path id="Línea_34-2" class="s3" d="m1488.4 451.2l538.5 538.5"/>
+				</g>
+			</g>
+			<path id="Elipse_145-2" class="s3" d="m1925 709c-103.5 0-187.1-83.6-187.1-187.1 0-103.4 83.6-187.1 187.1-187.1 103.5 0 187.1 83.7 187.1 187.1 0 103.5-83.6 187.1-187.1 187.1z"/>
+		</g>
+		<path id="Trazado_479" fill-rule="evenodd" class="s4" d="m1784.6 140q-0.4-0.1-0.7-0.3-0.4-0.2-0.6-0.4-0.3-0.3-0.5-0.6-0.2-0.3-0.3-0.7l-16.1-51q-0.1-0.3-0.1-0.7 0-0.4 0.1-0.8 0.1-0.3 0.2-0.7 0.2-0.3 0.5-0.6 0.2-0.3 0.6-0.5 0.3-0.2 0.6-0.3 0.4-0.1 0.8-0.1 0.4-0.1 0.7 0l52.2 11.6q0.4 0.1 0.7 0.3 0.3 0.2 0.6 0.4 0.3 0.3 0.5 0.6 0.2 0.3 0.3 0.7 0.1 0.4 0.2 0.8 0 0.3-0.1 0.7-0.1 0.4-0.3 0.7-0.2 0.4-0.4 0.6l-36.1 39.4q-0.3 0.3-0.6 0.5-0.3 0.2-0.7 0.3-0.4 0.1-0.8 0.1-0.3 0-0.7 0zm-11.1-49.9l13 41.3 29.3-31.9z"/>
+		<path id="Trazado_480" fill-rule="evenodd" class="s5" d="m117.4 151.8q-0.3-0.1-0.6-0.2-0.3-0.2-0.6-0.4-0.2-0.2-0.4-0.5-0.1-0.2-0.2-0.6l-13.5-42.8q-0.1-0.3-0.1-0.6 0-0.3 0.1-0.6 0-0.3 0.2-0.6 0.1-0.3 0.3-0.5 0.3-0.3 0.5-0.5 0.3-0.1 0.6-0.2 0.3-0.1 0.6-0.1 0.4 0 0.7 0l43.8 9.8q0.3 0.1 0.6 0.2 0.3 0.2 0.5 0.4 0.2 0.2 0.4 0.5 0.2 0.2 0.3 0.5 0.1 0.3 0.1 0.7 0 0.3-0.1 0.6 0 0.3-0.2 0.6-0.1 0.3-0.4 0.5l-30.3 33.1q-0.2 0.2-0.5 0.4-0.3 0.1-0.6 0.2-0.3 0.1-0.6 0.2-0.3 0-0.6-0.1zm-9.4-41.9l11 34.7 24.6-26.8z"/>
+		<path id="Trazado_1316" fill-rule="evenodd" class="s6" d="m447.5 910q-0.3-0.1-0.5-0.2-0.3-0.2-0.5-0.4-0.2-0.2-0.4-0.4-0.1-0.3-0.2-0.6l-12.3-39.1q-0.1-0.3-0.1-0.6-0.1-0.3 0-0.6 0.1-0.3 0.2-0.5 0.1-0.3 0.3-0.5 0.2-0.2 0.5-0.4 0.2-0.2 0.5-0.2 0.3-0.1 0.6-0.1 0.3-0.1 0.6 0l40.1 8.9q0.3 0.1 0.5 0.2 0.3 0.2 0.5 0.4 0.2 0.2 0.4 0.4 0.1 0.3 0.2 0.5 0.1 0.3 0.1 0.6 0 0.3 0 0.6-0.1 0.3-0.2 0.6-0.2 0.2-0.4 0.4l-27.8 30.3q-0.2 0.2-0.4 0.4-0.2 0.1-0.5 0.2-0.3 0.1-0.6 0.1-0.3 0-0.6 0zm-8.5-38.4l10 31.8 22.5-24.5z"/>
+		<path id="Trazado_3041" fill-rule="evenodd" class="s7" d="m1310.1 290.8q-0.3-0.1-0.6-0.2-0.2-0.1-0.4-0.3-0.2-0.2-0.4-0.5-0.2-0.2-0.2-0.5l-12.4-39.2q0-0.3-0.1-0.6 0-0.3 0.1-0.5 0.1-0.3 0.2-0.6 0.1-0.3 0.3-0.5 0.2-0.2 0.5-0.4 0.2-0.1 0.5-0.2 0.3-0.1 0.6-0.1 0.3 0 0.6 0.1l40.1 8.9q0.2 0.1 0.5 0.2 0.3 0.1 0.5 0.3 0.2 0.2 0.4 0.5 0.1 0.2 0.2 0.5 0.1 0.3 0.1 0.6 0 0.3-0.1 0.6 0 0.2-0.2 0.5-0.1 0.3-0.3 0.5l-27.8 30.2q-0.2 0.3-0.4 0.4-0.3 0.2-0.5 0.3-0.3 0-0.6 0.1-0.3 0-0.6-0.1zm-8.5-38.3l10 31.8 22.5-24.6z"/>
+		<g id="Grupo_400">
+			<g id="Grupo_398">
+				<path id="Trazado_431" class="s3" d="m1585.7 102c5.5 0 5.5 4.6 11.1 4.6 5.6 0 5.6-4.6 11.1-4.6 5.6 0 5.6 4.6 11.2 4.6 5.5 0 5.5-4.6 11.1-4.6 5.6 0 5.6 4.6 11.1 4.6"/>
+			</g>
+			<g id="Grupo_399">
+				<path id="Trazado_432" class="s3" d="m1619.4 121.3c-5.6 0-5.6-4.7-11.2-4.7-5.5 0-5.5 4.7-11.1 4.7-5.6 0-5.6-4.7-11.1-4.7-5.6 0-5.6 4.7-11.2 4.7-5.5 0-5.5-4.7-11.1-4.7"/>
+			</g>
+		</g>
+		<g id="Grupo_1764">
+			<g id="Grupo_398-2">
+				<path id="Trazado_431-2" class="s3" d="m1824.3 914.7c-5.6 0-5.6-4.7-11.2-4.7-5.5 0-5.5 4.7-11.1 4.7-5.6 0-5.6-4.7-11.1-4.7-5.6 0-5.6 4.7-11.2 4.7-5.5 0-5.5-4.7-11.1-4.7"/>
+			</g>
+			<g id="Grupo_399-2">
+				<path id="Trazado_432-2" class="s3" d="m1802.3 929.3c-5.6 0-5.6-4.6-11.1-4.6-5.6 0-5.6 4.6-11.2 4.6-5.5 0-5.5-4.6-11.1-4.6-5.6 0-5.6 4.6-11.1 4.6-5.6 0-5.6-4.6-11.2-4.6"/>
+			</g>
+		</g>
+		<g id="Grupo_1763">
+			<g id="Grupo_398-3">
+				<path id="Trazado_431-3" class="s3" d="m225.4 897c6.5 0 6.5 5.5 13.1 5.5 6.5 0 6.5-5.5 13-5.5 6.6 0 6.6 5.5 13.1 5.5 6.5 0 6.5-5.5 13.1-5.5 6.5 0 6.5 5.5 13 5.5"/>
+			</g>
+			<g id="Grupo_399-3">
+				<path id="Trazado_432-3" class="s3" d="m199.6 914.2c6.5 0 6.5 5.5 13.1 5.5 6.5 0 6.5-5.5 13-5.5 6.6 0 6.6 5.5 13.1 5.5 6.5 0 6.5-5.5 13.1-5.5 6.5 0 6.5 5.5 13 5.5"/>
+			</g>
+		</g>
+		<g id="Grupo_1766">
+			<g id="Grupo_398-4">
+				<path id="Trazado_431-4" class="s3" d="m554.4 454.9c6.5 0 6.5 5.4 13.1 5.4 6.5 0 6.5-5.4 13-5.4 6.6 0 6.6 5.4 13.1 5.4 6.5 0 6.5-5.4 13.1-5.4 6.5 0 6.5 5.4 13 5.4"/>
+			</g>
+			<g id="Grupo_399-4">
+				<path id="Trazado_432-4" class="s3" d="m593.9 477.5c-6.5 0-6.5-5.4-13-5.4-6.6 0-6.6 5.4-13.1 5.4-6.5 0-6.5-5.4-13.1-5.4-6.5 0-6.5 5.4-13 5.4-6.6 0-6.6-5.4-13.1-5.4"/>
+			</g>
+		</g>
+		<g id="Grupo_1767" style="opacity: .4">
+			<g id="Grupo_398-5">
+				<path id="Trazado_431-5" class="s3" d="m1431.7 479.5c-6.5 0-6.5-5.5-13-5.5-6.6 0-6.6 5.5-13.1 5.5-6.5 0-6.5-5.5-13.1-5.5-6.5 0-6.5 5.5-13 5.5-6.6 0-6.6-5.5-13.1-5.5"/>
+			</g>
+			<g id="Grupo_399-5">
+				<path id="Trazado_432-5" class="s3" d="m1405.9 496.7c-6.5 0-6.5-5.5-13-5.5-6.6 0-6.6 5.5-13.1 5.5-6.5 0-6.5-5.5-13.1-5.5-6.5 0-6.5 5.5-13 5.5-6.6 0-6.6-5.5-13.1-5.5"/>
+			</g>
+		</g>
+		<g id="Grupo_1768" style="opacity: .4">
+			<g id="Grupo_398-6">
+				<path id="Trazado_431-6" class="s3" d="m1386.2 828.8c-6.6 0-6.6-5.4-13.1-5.4-6.5 0-6.5 5.4-13.1 5.4-6.5 0-6.5-5.4-13-5.4-6.6 0-6.6 5.4-13.1 5.4-6.5 0-6.5-5.4-13.1-5.4"/>
+			</g>
+			<g id="Grupo_399-6">
+				<path id="Trazado_432-6" class="s3" d="m1360.4 846c-6.6 0-6.6-5.4-13.1-5.4-6.5 0-6.5 5.4-13.1 5.4-6.5 0-6.5-5.4-13-5.4-6.6 0-6.6 5.4-13.1 5.4-6.5 0-6.5-5.4-13.1-5.4"/>
+			</g>
+		</g>
+		<g id="Grupo_1765" style="opacity: .4">
+			<g id="Grupo_398-7">
+				<path id="Trazado_431-7" class="s3" d="m1047.2 251.8c-6.5 0-6.5-5.4-13-5.4-6.6 0-6.6 5.4-13.1 5.4-6.5 0-6.5-5.4-13.1-5.4-6.5 0-6.5 5.4-13 5.4-6.6 0-6.6-5.4-13.1-5.4"/>
+			</g>
+			<g id="Grupo_399-7">
+				<path id="Trazado_432-7" class="s3" d="m956.1 263.6c6.5 0 6.5 5.4 13.1 5.4 6.5 0 6.5-5.4 13-5.4 6.6 0 6.6 5.4 13.1 5.4 6.5 0 6.5-5.4 13.1-5.4 6.5 0 6.5 5.4 13 5.4"/>
+			</g>
+		</g>
+		<g id="Grupo_415">
+			<path id="Rectángulo_330" class="s8" d="m225.8 566.4l13-13.1 39.3 39.3-13.1 13z"/>
+			<path id="Rectángulo_331" class="s9" d="m238.9 605.1l-12.6-12.6 38.6-38.7 12.7 12.6z"/>
+		</g>
+		<g id="Grupo_939">
+			<path id="Rectángulo_330-2" class="s10" d="m1516.2 752.7l15.9-16 48.1 48-16 16z"/>
+			<path id="Rectángulo_331-2" class="s11" d="m1532.2 800.1l-15.4-15.5 47.3-47.3 15.5 15.5z"/>
+		</g>
+	</g>
+</svg>
